@@ -1,5 +1,5 @@
 ## DOWNLOAD
-1.3.1 [usa-1.3.1](https://github.com/d5render/d5render.github.io/releases/download/usa-1.3.1/D5_Render_installer-usa-1.3.1.0163.exe)
+[1.3.1](https://github.com/d5render/d5render.github.io/releases/download/usa-1.3.1/D5_Render_installer-usa-1.3.1.0163.exe)
 ## UPDATES
 
 **New features**
